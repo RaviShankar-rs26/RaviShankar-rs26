@@ -56,10 +56,9 @@
 --->
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-maurya-sm&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-maurya-sm&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://leetcode.card.workers.dev/?username=shubhammmaurya12" alt="Leetcode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaviShankar-rs26&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?RaviShankar-rs26&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviShankar-rs26&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## ✍️ Random Dev Quote
@@ -81,7 +80,8 @@
   
   <br/>
   <br/>
-  <img src="https://github.com/user-attachments/assets/13f2e413-3f1b-42de-8356-0fa4c83acef1" alt="" width="300">
+  <img src="https://github.com/user-attachments/assets/24b443ed-fcbb-40e2-9d00-e8ff1be13ece" alt="" width="300">
+
 
 </div>
 
