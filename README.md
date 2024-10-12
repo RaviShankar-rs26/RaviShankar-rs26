@@ -1,7 +1,7 @@
 ## Hello, I'm [Ravi Shankar!](https://www.linkedin.com/in/ravi-singh2626)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Programmer;Coder;Web+Developer+(MERN);)](https://www.linkedin.com/in/ravi-singh2626)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Programmer;Coder;Web+Developer+(Full-Stack);)](https://www.linkedin.com/in/ravi-singh2626)
 
 
 # 🌟 Welcome to My GitHub Profile! 🌟
